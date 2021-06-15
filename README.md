@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Bellow
+## Website Contents
 
-whfeigwfigwogvosagvoidgwpiruengfxiwgiofcšiurgfbciušwgrfcvowzqonxoqwn
-
-whfeigwfigwogvosagvoidgwpweffdeiruengfxiwgiofcšiurgfbciušwgrfcvowzqonxoqwn
+1.index.html
